@@ -74,7 +74,7 @@ public class HN_KS24_CNTT4_NguyenThiKimLe {
                         System.out.println(s);
                     }
                     break;
-                case 9:
+                case 5:
                     System.out.println("Thoát chương trình!");
                     break;
                 default:
@@ -82,5 +82,6 @@ public class HN_KS24_CNTT4_NguyenThiKimLe {
             }
         }while(choice != 5);
     }
+
 
 }
